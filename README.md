@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usaid00
+- 👋 Hi, I’m **Usaid**
 - 👀 I’m interested in Computer Science and Linux
 - 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on Open Source Software
